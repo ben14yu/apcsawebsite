@@ -1,4 +1,3 @@
-# Welcome to my BLOG!
 ## My name is Ben Yu
 
 ### Picture of me:
