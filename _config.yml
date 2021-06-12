@@ -1,0 +1,12 @@
+title: Ben APCSA
+author: Ben Yu
+email: byu2@ebnet.org
+theme: minima
+description: > # this means to ignore newlines until "baseurl:"
+        This website serves as a class project for AP Computer Science A.
+# social links
+
+twitter_username: idonthaveone
+github_username:  ben14yu # DO NOT include the @ character, or else the build will fail!
+
+show_excerpts: true # set to false to remove excerpts on the homepage
